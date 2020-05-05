@@ -1,24 +1,19 @@
-# vue-tailwind
+# Vue Tailwind CSS Boilerplate
 
-## Project setup
-```
-npm install
-```
+This project is a based to start a VueJS project with Tailwind already configured via PostCSS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Some of the libraries included are:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+  - eslint
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Installation
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The project requires [Node.js](https://nodejs.org/) v10+ to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ cd vue-tailwind
+$ npm install
+$ npm run serve
+```
