@@ -2,17 +2,23 @@
   <div id="app">
     <div class="flex flex-col justify-center items-center">
       <div class="m-auto mb-10">
-        <img alt="Vue logo" class src="./assets/logo.png" />
+        <img
+          alt="Vue logo"
+          class
+          src="./assets/logo.png"
+        >
       </div>
-      <div class="font-extrabold">vue tailwind | dpo</div>
+      <div class="font-extrabold">
+        vue tailwind | dpo
+      </div>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "App"
-};
+  name: 'App'
+}
 </script>
 
 <style>
